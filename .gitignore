@@ -1,0 +1,4 @@
+aistudylens/
+__pycache__/
+*.pyc
+.env
